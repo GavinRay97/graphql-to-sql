@@ -1,0 +1,16 @@
+{
+  "name": "gql-to-sql",
+  "version": "0.1",
+  "main": "main.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "graphql": "^14.5.8",
+    "graphql-to-sql": "^1.0.10",
+    "graphql-tools": "^4.0.6",
+    "verbal-expressions": "^1.0.2"
+  }
+}
